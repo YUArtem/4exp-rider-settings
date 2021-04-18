@@ -1,9 +1,9 @@
 # 4exp-rider-settings
-Settings for Rider IDE, that contains appropriate Code Style [from the Megawiki](https://wiki.4experience.co/doku.php?id=development:zasady_formatowania_kodu) + a few visual changes (like Material Theme plugin) + code live templates for C#/Unity + 2 good plugins.
+Settings for Rider IDE, that contain appropriate Code Style [from the Megawiki](https://wiki.4experience.co/doku.php?id=development:zasady_formatowania_kodu) + a few visual changes (like Material Theme plugin) + code live templates for C#/Unity + 2 good plugins.
 
-This repo will be used as a settings sync repo for Rider ([How to use setting sync repo in Rider](https://www.jetbrains.com/help/idea/sharing-your-ide-settings.html)).
+This repo can be used as a settings sync repo for Rider ([How to use setting sync repo in Rider](https://www.jetbrains.com/help/idea/sharing-your-ide-settings.html)).
 
-Also, this repo will contains files with settings for manual appliance (if you don't have extended license or for some reasons cannot use sync repo), but this files can contain version of settings and wouldn't be updated as fast as sync repo settings. You will find files for manual import in the **Manual** folder
+Also, the repo contains files with settings for manual appliance (if you don't have extended license or for some reasons cannot use sync repo), but these files can contain old version of settings and wouldn't be updated as fast as sync repo settings. You will find files for manual import in the **Manual** folder. **You will also find there only code style settings (in case you don't want to have visual changes and plugins)**.
 
 # Custom live templates
 Settings from that repo contain a few custom live templates:
